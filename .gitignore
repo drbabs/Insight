@@ -1,0 +1,13 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+terraform.exe
+inspec.lock
+*.iml
+*.tfvars
+
+# Module directory
+.terraform/
+.idea/
+
+modules/
